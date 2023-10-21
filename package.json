@@ -26,5 +26,8 @@
     "@types/react": "16.9.17",
     "encoding": "^0.1.13",
     "typescript": "^5.2.2"
+  },
+  "engines": {
+    "node": "16.20.0"
   }
 }
